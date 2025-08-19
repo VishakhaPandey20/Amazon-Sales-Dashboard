@@ -79,6 +79,6 @@ The dashboard provides real-time insights into sales performance across **cities
 ---
 
 ## 👤 Author
-**Manish Divekar**  
+**Vishakha Pandey**  
 *Data Analyst | Excel | Power BI | SQL*  
   
